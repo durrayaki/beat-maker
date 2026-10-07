@@ -1,0 +1,28 @@
+{
+  "tiles": [
+    {
+      "id": "tile-1791387012376",
+      "songUrl": "/uploads/Shakira_-_Hips_Don_t_Lie__featuring_Wyclef_Jean___Official_4K_Video__ft._Wyclef_Jean_-_shakiraVEVO.mp3",
+      "songName": "Shakira_-_Hips_Don_t_Lie__featuring_Wyclef_Jean___Official_4K_Video__ft._Wyclef_Jean_-_shakiraVEVO.mp3",
+      "color": "bg-pink-500"
+    },
+    {
+      "id": "tile-1791387032495",
+      "songUrl": "/uploads/TULUS_-_Teh_Hijau__Official_Lyric_Video__-_Tulus.mp3",
+      "songName": "TULUS_-_Teh_Hijau__Official_Lyric_Video__-_Tulus.mp3",
+      "color": "bg-teal-500"
+    },
+    {
+      "id": "tile-1791387074855",
+      "songUrl": "/uploads/trimmed_Shakira_-_Hips_Don_t_Lie__featuring_Wyclef_Jean___Official_4K_Video__ft._Wyclef_Jean_-_shakiraVEVO.mp3",
+      "songName": "trimmed_Shakira_-_Hips_Don_t_Lie__featuring_Wyclef_Jean___Official_4K_Video__ft._Wyclef_Jean_-_shakiraVEVO.mp3",
+      "color": "bg-blue-500"
+    },
+    {
+      "id": "tile-1791387128326",
+      "songUrl": "/uploads/audio1.mp3",
+      "songName": "audio1.mp3",
+      "color": "bg-blue-500"
+    }
+  ]
+}
